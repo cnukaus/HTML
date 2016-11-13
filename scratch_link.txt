@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>https://scratch.mit.edu/projects/129327543/#editor</title>
+</head>
+<body>
+<a href="https://scratch.mit.edu/projects/129327543/#editor" >
+https://scratch.mit.edu/projects/129327543/#editor
+<iframe class="google" id="sounds" >
+</iframe>
+</a>
+</body>
+</html>
+
+Chrome instructions:
+
+Step 1:
+
+Ctrl-Shift-I
+Right-click the h in the <html>.
+Select 'Edit as HTML'.
+Ctrl-A
+Backspace
+
+Step 2:
+
+Then, at GitHub, here ...
+Copy the template.  (Ctrl-C)
+
+Step 3:
+
+Then, at your 'developer tools'(JavaScript Webpage) 
+Do Step 1.
+Ctrl-V
+Click on white around it, then,
+Click the link (on the webpage) !
