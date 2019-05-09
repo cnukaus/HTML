@@ -12,7 +12,7 @@ https://scratch.mit.edu/projects/129327543/#editor
 </body>
 </html>
 
-Chrome instructions:
+Chrome instructions:(modified)
 
 Step 1:
 
